@@ -23,5 +23,23 @@ img {
 }
 
 #MainBody {
+    text-align: center;
+    color: white;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+ul {
+    width: fit-content;
     margin: auto;
 }
